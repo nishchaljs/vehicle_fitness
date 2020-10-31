@@ -1,3 +1,5 @@
 # vehicle_fitness
 ## Car Parts Detection 
-Download the weights from drive link and place it in _CarPartsDetectionChallenge-master\Data\Model_Weights_
+Download the weights from drive link and place it in _CarPartsDetectionChallenge-master\Data\Model_Weights_  
+  
+Refer Test_parts.ipynb for Tire and headlight testing codes.
