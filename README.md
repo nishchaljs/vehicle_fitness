@@ -42,7 +42,7 @@ Run the "Tyre" block of code in the Test_parts.ipynb for executing the Tyre defe
 ## Headlights ON/OFF Classification  
 Run the "Headlights" block of code in the Test_parts.ipynb for executing the Headlights On/Off classification. It performs Binary Image Classification with a simple Convolutional Neural Network.  
 ## Horn detection
-Run the horn_pitch_detection.ipynb in the horn_detect folder. The audio file should be in wav format and the path of it should be mentioned in the ipynb file.For testing the 2 wav files in the horn_detect folder can be used.Here the algorithms AMDF(Average Magnitude Difference Function) and CAMDF(circular average magnitude difference function)are used.
+Run the horn_pitch_detection.ipynb in the horn_detect folder. The audio file should be in wav format and the path of it should be mentioned in the ipynb file.For testing, the 2 wav files in the horn_detect folder can be used.Here the algorithms AMDF(Average Magnitude Difference Function) and CAMDF(circular average magnitude difference function)are used.
   
 ## OCR for Vehicle Registartion Plate detection and Document Verification  
 Refer to the OCR.ipynb for the OCR Tesseract code implementation. The details Extracted from the documents are:  
