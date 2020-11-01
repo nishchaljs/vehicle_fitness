@@ -50,3 +50,12 @@ Refer to the OCR.ipynb for the OCR Tesseract code implementation. The details Ex
 * Engine Number and Chassis Number
 * Manufacturing Date of Vehicle and its Age
 * Owner Information  
+
+## Dataset used:
+* Tyre condition testing: https://drive.google.com/drive/folders/1VxH_IP3-GHgj6tcykzbnZtpfHkALMv9p
+* Indicator testing: The video has been uploaded in the repository
+* Horn testing: The audio files are uploaded in the repository
+* OCR: The test images are uploaded in the repository
+* Headlights: The train and test images are uploaded in the repository
+* License plate: The test images are uploaded in the repository
+* Car parts detection: The train and test images are uploaded in the repository
