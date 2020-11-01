@@ -51,6 +51,9 @@ Refer to the OCR.ipynb for the OCR Tesseract code implementation. The details Ex
 * Manufacturing Date of Vehicle and its Age
 * Owner Information  
 
+## Break test Automation
+Refer to CarND-Vehicle-Detection-master folder to run the break tests for a given video. Distance w.r.t to camera and Speed of the Vehicle is be measured using Triangle Similarity and pixel per meter estimation. The braking distance is calculated based on the difference in the distance of the vehicle at 40kmph and at 0kmph.  
+
 ## Geolocation
 Current location of the user is fetched from the geocoder library and compared with the location of the predefined location of the RTO. 
 For location, latitude and longitude coordinates are used. 
