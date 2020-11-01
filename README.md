@@ -1,4 +1,4 @@
-# vehicle_fitness
+# Vehicle Fitness Test
 The goal of this project is to automate the various steps involved in vehicle fitness tests.  
   
 ## Technologies Used
