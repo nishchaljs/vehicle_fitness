@@ -51,6 +51,13 @@ Refer to the OCR.ipynb for the OCR Tesseract code implementation. The details Ex
 * Manufacturing Date of Vehicle and its Age
 * Owner Information  
 
+## Geolocation
+Current location of the user is fetched from the geocoder library and compared with the location of the predefined location of the RTO. 
+For location, latitude and longitude coordinates are used. 
+The distance between them is calculated and returned in kilometers.
+The distance calculation is done using the haversine library.
+
+
 ## Dataset used:
 * Tyre condition testing: https://drive.google.com/drive/folders/1VxH_IP3-GHgj6tcykzbnZtpfHkALMv9p
 * Indicator testing: The video has been uploaded in the repository
